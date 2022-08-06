@@ -1,0 +1,79 @@
+@charset "UTF-8";
+body{
+    background-color: #FCE2E2;;
+}
+li{
+    display: block;
+}
+#burguer{
+    margin: 39px 0px 0px 24px;
+    display: inline-block;
+}
+#ifome{
+    margin: 39px 0px 0px 150px;
+    display: inline-block;
+}
+#bolo{
+    margin: 39px 0px 0px 150px;
+    display: inline-block;
+}
+#pizza{
+    margin: 39px 0px 0px 24px;
+    display: inline-block;
+    text-align: left;
+}
+#dog{
+    margin: 39px 0px 0px 24px;
+    display: inline-block;
+    text-align: left;
+}
+#sorvete{
+    margin: 39px 24px 0px 700px;
+    display: inline-block;
+    text-align: right;
+}
+#cupcake{
+    margin: 39px 24px 0px 715px;
+    display: inline-block;
+    text-align: right;
+}
+fieldset{
+    width: 774px;
+    height: 580px;
+    background-color: #fff;
+    border-color: #000;
+    border-style: solid;
+    text-align: center;
+    border-style:solid;
+    position: absolute;
+    margin: 15px 283px 65px 340px;
+}
+#minutos{
+    font-size: 50px;
+}
+.fonte{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.pEscrita{
+    font-size: 35px;
+}
+.pInput{
+    width: 300px;
+    height: 35px;
+}
+#entrar{
+    width: 300px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: #FF2E2E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+#cadas{
+    text-align: right;
+}
