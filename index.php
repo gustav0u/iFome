@@ -9,7 +9,8 @@
 </head>
 <body> 
 <ul>
-    <li id="burguer"><figure><img src="img/hamburguer.png" alt="X salada"></figure></li><!--
+    <li id="burguer"><figure><img src="img/hamburguer.png" alt="X salada"></figure></li><!--Olá Adriele, tudo bem? por ser uma lista
+você pode usar a propriedade display com o valor inline, em seu CSS, dentro de seu ID burguer, ou adicionando esta regra a tag Li.
 --><li id="ifome"><figure><img src="img/iFome.png" alt="Logo iFome"></figure></li><!--
 --><li id="bolo"><figure><img src="img/bolo.png" alt="Bolo de chocolate"></figure></li>
 </ul>
